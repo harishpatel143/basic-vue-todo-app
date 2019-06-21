@@ -1,4 +1,4 @@
-# test2
+# Vue JS Basic TODO App
 
 ## Project setup
 ```
